@@ -1,0 +1,27 @@
+C:\Users\User\source\repos\SpecFlow\Matematica\bin\Debug\netcoreapp3.1\Matematica.deps.json
+C:\Users\User\source\repos\SpecFlow\Matematica\bin\Debug\netcoreapp3.1\Matematica.dll
+C:\Users\User\source\repos\SpecFlow\Matematica\bin\Debug\netcoreapp3.1\Matematica.pdb
+C:\Users\User\source\repos\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.AssemblyInfo.cs
+C:\Users\User\source\repos\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.dll
+C:\Users\User\source\repos\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.pdb
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\Matematica\bin\Debug\netcoreapp3.1\Matematica.deps.json
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\Matematica\bin\Debug\netcoreapp3.1\Matematica.dll
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\Matematica\bin\Debug\netcoreapp3.1\Matematica.pdb
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.AssemblyInfo.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.dll
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.pdb
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\Matematica\bin\Debug\netcoreapp3.1\Matematica.deps.json
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\Matematica\bin\Debug\netcoreapp3.1\Matematica.dll
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\Matematica\bin\Debug\netcoreapp3.1\Matematica.pdb
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.csprojAssemblyReference.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.AssemblyInfoInputs.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.AssemblyInfo.cs
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.dll
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\Matematica\obj\Debug\netcoreapp3.1\Matematica.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y9siNIlaId9pXBZB9aXVEdZPvTdsVLsVRr3lg8RdlRwq09DnuvTyO/4rZptJ3BrHY8wwGChqXTfo+CHskr9rrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DIEGO\\Desktop\\procesos\\Deber\\SpecFlow\\Matematica\\Matematica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DIEGO\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

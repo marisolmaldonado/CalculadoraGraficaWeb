@@ -1,0 +1,74 @@
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.exe
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.deps.json
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.runtimeconfig.json
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.runtimeconfig.dev.json
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.dll
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.pdb
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.Views.dll
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.Views.pdb
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.AssemblyInfo.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\staticwebassets\CalculadorWEb.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\staticwebassets\CalculadorWEb.StaticWebAssets.xml
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculadorWEb.styles.css
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.TagHelpers.input.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.TagHelpers.output.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.RazorCoreGenerate.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.Views.pdb
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.dll
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.pdb
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.genruntimeconfig.cache
+C:\Users\user\Desktop\MISHELL - copia\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.csproj.CopyComplete
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.exe
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.deps.json
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.runtimeconfig.json
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.runtimeconfig.dev.json
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.dll
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.pdb
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.Views.dll
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\bin\Debug\netcoreapp3.1\CalculadorWEb.Views.pdb
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.csprojAssemblyReference.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.AssemblyInfoInputs.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.AssemblyInfo.cs
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.RazorAssemblyInfo.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.RazorAssemblyInfo.cs
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\staticwebassets\CalculadorWEb.StaticWebAssets.Manifest.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\staticwebassets\CalculadorWEb.StaticWebAssets.xml
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculadorWEb.styles.css
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.TagHelpers.input.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.TagHelpers.output.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.RazorCoreGenerate.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.RazorTargetAssemblyInfo.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.RazorTargetAssemblyInfo.cs
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.Views.pdb
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.dll
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.pdb
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.genruntimeconfig.cache
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\CalculadorWEb.csproj.CopyComplete
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DIEGO\Desktop\procesos\Deber\SpecFlow\CalculadorWEb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
